@@ -1,0 +1,3 @@
+[submodule "CovDB_Addon"]
+	path = CovDB_Addon
+	url = https://github.com/ChrisKader/CovDB_Addon
