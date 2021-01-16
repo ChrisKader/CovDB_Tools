@@ -1,6 +1,8 @@
 __pycache__
-tokens.py
+*tokens.py
+curse_token.txt
 notes.txt
 *.lua
 *.json
 *.tmp
+*.zip
