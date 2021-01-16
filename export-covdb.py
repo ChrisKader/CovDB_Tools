@@ -17,7 +17,7 @@ from oauthlib.oauth2 import TokenExpiredError
 
 addon_version = '1.1.0'
 interface_version = '90002'
-addon_path = "./addon"
+addon_path = "./CovDB_Addon"
 
 try:
     import tokens
